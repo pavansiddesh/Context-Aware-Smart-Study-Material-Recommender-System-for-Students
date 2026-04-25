@@ -1,0 +1,10 @@
+subject,level,type,title
+Machine Learning,Beginner,Video,Intro to ML Basics
+Machine Learning,Intermediate,Notes,Supervised Learning Notes
+Machine Learning,Advanced,Video,Deep Learning Concepts
+DBMS,Beginner,Notes,Database Fundamentals
+DBMS,Intermediate,Video,SQL Joins Explained
+DBMS,Advanced,Notes,Transaction Management
+Networking,Beginner,Video,OSI Model Basics
+Networking,Intermediate,Notes,TCP/IP Explained
+Networking,Advanced,Video,Routing Algorithms
